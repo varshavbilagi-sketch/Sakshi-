@@ -1,0 +1,9 @@
+Country,State,District,Year,Month,Rainfall_mm,Temperature_C,NDVI,Forest_Area_km2
+India,Karnataka,Belagavi,2023,1,12,24,0.42,120
+India,Karnataka,Belagavi,2023,2,18,26,0.45,120
+India,Karnataka,Mysuru,2023,1,15,23,0.48,95
+India,Karnataka,Mysuru,2023,2,20,25,0.50,95
+India,Karnataka,Belagavi,2024,1,10,25,0.40,119
+India,Karnataka,Belagavi,2024,2,15,27,0.43,119
+India,Karnataka,Mysuru,2024,1,13,24,0.46,94
+India,Karnataka,Mysuru,2024,2,17,26,0.49,94
